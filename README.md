@@ -19,7 +19,7 @@
 ## :rocket: Sobre o desafio
 
 <p align="center">
-  <img src=".github/watchme.png" alt="WatchMe">
+  <img src="https://streamingsbrasil.com/wp-content/uploads/2019/07/logo-menor.png" alt="WatchMe" width="64" heigth="64" >
 </p>
 
 Nesse desafio, o principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
