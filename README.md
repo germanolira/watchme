@@ -37,7 +37,7 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/germanolira/ignite-template-componentizando-a-aplicacao
+git clone https://github.com/germanolira/watchme
 # ou use a opção de download.
 
 # Entre na pasta com 
